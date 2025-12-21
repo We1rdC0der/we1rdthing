@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #00ff00;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5 } 
+		.t1 { font-size: 74px;fill: #ffffff;font-weight: 700;font-family: "Verdana-Bold", "Verdana" } 
+	</style>
+	<path id="Background" fill-rule="evenodd" class="s0" d="m200.25 9c105.62 0 191.25 85.63 191.25 191.25 0 105.62-85.63 191.25-191.25 191.25-105.62 0-191.25-85.63-191.25-191.25 0-105.62 85.63-191.25 191.25-191.25z"/>
+	<text id="Text layer 2" style="transform: matrix(1,0,0,1,-60,51)" >
+	</text>
+	<text id="WE1RD THING" style="transform: matrix(1,-0.003,.003,1,-0.009,.619)" >
+		<tspan x="46.4" y="169.5" class="t1">WE</tspan><tspan  y="169.5" class="t1">1</tspan><tspan  y="169.5" class="t1">RD
+</tspan>
+		<tspan x="61.6" y="258.3" class="t1">THI</tspan><tspan  y="258.3" class="t1">N</tspan><tspan  y="258.3" class="t1">G
+</tspan>
+	</text>
+</svg>
