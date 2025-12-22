@@ -1,20 +1,18 @@
 {
-  "label": "we1rdthing",
-  "tags": [],
-  "requires": [
-    "windows"
-  ],
-  "version": "0.11.4",
-  "requiredVersions": {
-    "server": ">=0.0.0",
-    "client": ">=0.11.2"
-  },
-  "description": "An clock with weather icon, temp, and day of week.",
-  "author": "we1rdc0der",
-  "platforms": [],
-  "repository": "",
-  "homepage": "",
-  "updateUrl": "",
   "id": "we1rdthing",
-  "template": "full"
+  "isAudioSource": null,
+  "isWebApp": true,
+  "requires": [],
+  "label": "we1rdthing",
+  "version": "0.5",
+  "version_code": "0",
+  "compatible_server": 10.4,
+  "compatible_client": 10.4,
+  "description": "This is an app for the DeskThing, made by we1rdc0der!",
+  "author": "we1rdc0der",
+  "homepage": "",
+  "repository": "",
+  "updateUrl": "","platforms": [
+        "windows"]
 }
+
