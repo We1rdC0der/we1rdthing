@@ -1,18 +1,25 @@
 {
-  "id": "we1rdthing",
-  "isAudioSource": null,
-  "isWebApp": true,
-  "requires": [],
-  "label": "we1rdthing",
-  "version": "0.5",
-  "version_code": "0",
-  "compatible_server": 10.4,
-  "compatible_client": 10.4,
-  "description": "This is an app for the DeskThing, made by we1rdc0der!",
-  "author": "we1rdc0der",
-  "homepage": "",
-  "repository": "",
-  "updateUrl": "","platforms": [
-        "windows"]
+    "id": "betterweatheringwaves",
+    "isWebApp": true,
+    "requires": [],
+    "label": "Better Weathering Waves",
+    "version": "1.0.8",
+    "description": "A redesigned weather waves. For best experience,assign your 2 of your top buttons to rewind/skip using the desktop app",
+    "author": "DannyTheHeretic",
+    "platforms": [
+        "windows",
+        "macos",
+        "linux"
+    ],
+    "homepage": "https://github.com/DannyTheHeretic/betterWeatheringWavesThing",
+    "repository": "https://github.com/DannyTheHeretic/betterWeatheringWavesThing",
+    "tags": [
+        false,
+        false
+    ],
+    "requiredVersions": {
+        "server": ">=0.11.13",
+        "client": ">=0.11.2"
+    }
 }
 
